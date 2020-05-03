@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//nirmalbrj7.github.io/basicReactApp/static/css/main.fbe244f3.chunk.css",
+    "main.js": "/https//nirmalbrj7.github.io/basicReactApp/static/js/main.eecea306.chunk.js",
+    "main.js.map": "/https//nirmalbrj7.github.io/basicReactApp/static/js/main.eecea306.chunk.js.map",
+    "runtime-main.js": "/https//nirmalbrj7.github.io/basicReactApp/static/js/runtime-main.6cfa711d.js",
+    "runtime-main.js.map": "/https//nirmalbrj7.github.io/basicReactApp/static/js/runtime-main.6cfa711d.js.map",
+    "static/js/2.b0e7918a.chunk.js": "/https//nirmalbrj7.github.io/basicReactApp/static/js/2.b0e7918a.chunk.js",
+    "static/js/2.b0e7918a.chunk.js.map": "/https//nirmalbrj7.github.io/basicReactApp/static/js/2.b0e7918a.chunk.js.map",
+    "index.html": "/https//nirmalbrj7.github.io/basicReactApp/index.html",
+    "precache-manifest.88e41bf4fe3324b2ae000323ff872479.js": "/https//nirmalbrj7.github.io/basicReactApp/precache-manifest.88e41bf4fe3324b2ae000323ff872479.js",
+    "service-worker.js": "/https//nirmalbrj7.github.io/basicReactApp/service-worker.js",
+    "static/css/main.fbe244f3.chunk.css.map": "/https//nirmalbrj7.github.io/basicReactApp/static/css/main.fbe244f3.chunk.css.map",
+    "static/js/2.b0e7918a.chunk.js.LICENSE.txt": "/https//nirmalbrj7.github.io/basicReactApp/static/js/2.b0e7918a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cfa711d.js",
+    "static/js/2.b0e7918a.chunk.js",
+    "static/css/main.fbe244f3.chunk.css",
+    "static/js/main.eecea306.chunk.js"
+  ]
+}
